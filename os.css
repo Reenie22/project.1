@@ -1,0 +1,269 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=League+Spartan:wght@100;200;300;400;500;600;700;800;900&family=Poppins:ital,wght@0,100;1,100;1,300;1,400;1,500;1,600&family=Roboto+Mono:ital,wght@0,100;0,300;0,400;0,500;0,600;0,700;1,100;1,400;1,500&family=Roboto:wght@400;500;700&display=swap');
+
+  *{
+    font-family: "Roboto,sans-serif";
+  }
+  body{
+    background-color: black;
+    letter-spacing:inherit ;
+    margin-left: 3rem;
+  
+  }
+  .header-1 {
+    display: flex;
+    justify-content: space-between;
+    height: 15rem;
+   
+  }
+  .logo-1{
+    width: 60px;
+    height: 75px;
+    display: flex;
+    padding-top: 20px;
+    margin-left:3rem;
+  }
+  .nav-bar {
+    padding: 20px;
+    justify-content: space-between;
+    text-align: center;
+    text-decoration: none;
+  
+    color: white;
+    margin-right: 7px;
+  }
+  .page-1{
+    color: white;
+    margin-left: 20px;
+    
+    
+  }
+  h6{
+    font-size: 18px;
+    font-weight: 100;
+    letter-spacing: 3px;
+  
+  }
+  h2{
+    font-size: 90px;
+   font-weight: bold;
+ transform: scaleY(1.5);
+    
+  }
+  h2 span{
+    color: rgba(78, 187, 129, 0.835);
+    
+  }
+  h3{
+    font-size: 40px;
+    transform: scaleY(1.2);
+    font-weight: bold;
+    color: #e7d9d9e9;
+    letter-spacing: 1px;
+  }
+  p{
+    letter-spacing: 3.5px;
+    width: 48%;
+    font-family: "Roboto,sans-serif";
+    opacity: 0.7;
+    margin-left: 0.9rem;
+    line-height: 1.6;
+    color: white;
+    font-size: 19x;
+    
+  }
+  .logo{
+    color: white;
+  display:flex;
+  gap:35px;
+    opacity: 0.5;
+    padding-top: 15px;
+    height: 50px;
+    margin-left: 3rem;
+    font-size: 27px;
+  }
+  .fa-facebook{
+    background-color: grey;
+    color: black;
+    border: 2px solid grey;
+    width: 14px;
+    height: 19px;
+    text-align: center;
+    font-size: 27px;
+  }
+   h1{
+    font-size:50px ;
+    color: white;
+    transform: scaleY(1.7);
+    font-weight: bold;
+    color: #e7d9d9e9;
+    letter-spacing: 1px;
+    opacity: 0.3;
+    margin-left: 3rem;
+  }
+  .work{
+    color: #71ebaad5; 
+    font-size: 50px;
+    opacity: 0.7;
+  
+   
+  }
+  .page-2{
+    display: flex;
+    
+    
+  }
+  .pic-1{
+   
+    object-fit: cover;
+    margin-left: 3rem;
+    border-radius: 6px;
+    height: 90%;
+    width: 95%;
+    opacity: 0.5;
+    padding-bottom:  2rem;
+    
+  }
+  
+  .pic-m{
+    color: white;
+    margin-bottom: 4rem;
+   
+   
+    
+  }
+  .words{
+    
+   margin-left: 2.4rem;
+    display: inline;
+   
+  }
+  .book{
+    text-align: center;
+    display: inline;
+    margin-left: 8rem;
+    
+   
+  }
+  .pic-2{
+   
+   
+    object-fit: cover;
+    border-radius: 6px;
+    height: 90%;
+    width: 75%;
+    opacity: 0.5;
+    margin-left: 8rem;
+    padding-bottom:  2rem;
+    vertical-align: sub;
+  }
+  .around-2{
+    vertical-align: baseline;
+  }
+  
+  .page-3{
+    display: flex;
+    padding-top: 10rem;
+    
+   
+  }
+  .pic-4{
+    object-fit: cover;
+    margin-left: 3rem;
+    border-radius: 6px;
+    height: 90%;
+    width: 95%;
+    opacity: 0.5;
+    padding-bottom:  2rem;
+  }
+  .pic-3{
+    object-fit: cover;
+    margin-left: 8rem;
+    border-radius: 6px;
+    height: 90%;
+    width: 75%;
+    opacity: 0.5;
+    padding-bottom:  2rem;
+  }
+  .pic-n{
+    color: #ffffff;
+  }
+  .about{
+    padding-top: 4rem;
+    
+  }
+  .absolute{
+    position: relative;
+   
+  }
+  .home{
+    color: white;
+    position: absolute;
+    margin-left: 3rem;
+    top: 140rem;
+    font-weight: bold;
+   
+  }
+  .pounds{
+    color: #ffffff;
+    padding-top: 5rem;
+    margin-left: 2rem;
+   font-size: 20px;
+    
+    
+
+  }
+  .pound-1{
+    color: white;
+    margin-left: 2rem;
+    font-size: 20px;
+    
+  }
+  .contact{
+    padding-top: 2.5rem;
+    position: relative;
+  }
+  .reach{
+    color: white;
+    position: absolute;
+    top: 168rem;
+    margin-left: 3.4rem;
+    font-weight: bold;
+  }
+  .project{
+    color: white;
+ line-height: 1.6;
+ margin-left: 2rem;
+ padding-top: 1rem;
+  }
+  a{
+    margin-left: 2rem;
+    color: #80ff006e; 
+    padding-top: 1rem;
+  }
+  .last-page{
+    border-top: 1px solid grey;
+    opacity: 0.7;
+    color: rgba(255, 255, 255, 0.307);
+    letter-spacing: 2px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 1.5rem;
+  }
+  .last{
+    color: white;
+    font-weight: bold;
+  }
+  .logo-4{
+    color: white;
+    display:flex;
+    gap:35px;
+      opacity: 0.3;
+     font-size: 27px;
+      height: 100px;
+      margin-left: 3rem
+  }
+.fa-heart{
+  color: #80ff006e;
+}
