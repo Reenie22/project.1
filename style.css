@@ -8,6 +8,7 @@
     background-color: black;
     letter-spacing:inherit ;
     margin-left: 3rem;
+     position: relative;
   
   }
   .header-1 {
@@ -158,7 +159,7 @@
     vertical-align: sub;
   }
   .around-2{
-    vertical-align: baseline;
+     transform: translate(0rem, 8rem);
   }
   
   .page-3{
